@@ -1,5 +1,6 @@
 # Bank Marketing
 **Course:** BCIS 466 
+
 **Instructor:** Dr. Don Fuqua  
 **Student:** Manuel Corona  
 
