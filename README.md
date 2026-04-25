@@ -1,5 +1,5 @@
-# Bank Marketing - Predictive Analytics Semester Project
-**Course:** BCIS 466 - Machine Learning and Predictive Analytics  
+# Bank Marketing
+**Course:** BCIS 466 
 **Instructor:** Dr. Don Fuqua  
 **Student:** Manuel Corona  
 
